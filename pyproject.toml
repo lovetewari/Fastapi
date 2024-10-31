@@ -1,0 +1,1 @@
+poetry init --no-interaction --name "SerpentineEagerOs" --dependency "fastapi" --dependency "python-multipart" --dependency "sqlalchemy" --dependency "databases" --dependency "scikit-learn" --dependency "numpy" --dependency "PyPDF2" --dependency "nltk" --dependency "uvicorn" --dependency "jinja2" --dependency "aiosqlite" --dependency "pydantic" --dependency "slowapi"
